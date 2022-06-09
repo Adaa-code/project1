@@ -1,0 +1,64 @@
+form {
+    padding: 30px;
+    width: 300px; height: auto;
+    margin: 0px auto;
+    background-image: url("../images/adaobi.jpg");
+}
+p {
+    width: 0px auto;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+p {
+    text-align: center;
+}
+body {
+    background-image: url("../images/adaobi.jpg");
+}
+#login {
+      width: 150PX;
+      border: none;
+      background-color: chocolate;
+      padding: 3px;
+      color: white;
+}
+#password {
+    width: 300px;
+}
+h5 {
+text-align: center; color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 50px;
+}
+h6 {
+    text-align: center; color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.btn {
+    background-color: black;
+    border: white;
+    color: white; 
+    font-size: 16px; 
+    cursor: pointer;
+  }
+.fa-facebook {
+    color: white;
+    border-width: 20px;
+}
+.fa-twitter {
+    color: white;
+    border-width: 20px;
+}
+.fa-googleplus {
+    color: white;
+    border-width: 20px;
+}
+h2 {
+    text-align: center; color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
